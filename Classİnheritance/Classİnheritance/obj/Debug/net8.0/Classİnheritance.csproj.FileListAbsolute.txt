@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\bin\Debug\net8.0\Classİnheritance.exe
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\bin\Debug\net8.0\Classİnheritance.deps.json
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\bin\Debug\net8.0\Classİnheritance.runtimeconfig.json
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\bin\Debug\net8.0\Classİnheritance.dll
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\bin\Debug\net8.0\Classİnheritance.pdb
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\obj\Debug\net8.0\Classİnheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\obj\Debug\net8.0\Classİnheritance.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\obj\Debug\net8.0\Classİnheritance.AssemblyInfo.cs
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\obj\Debug\net8.0\Classİnheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\obj\Debug\net8.0\Classİnheritance.sourcelink.json
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\obj\Debug\net8.0\Classİnheritance.dll
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\obj\Debug\net8.0\refint\Classİnheritance.dll
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\obj\Debug\net8.0\Classİnheritance.pdb
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\obj\Debug\net8.0\Classİnheritance.genruntimeconfig.cache
+C:\Users\User\Desktop\Hometask\Classİnheritance\Classİnheritance\obj\Debug\net8.0\ref\Classİnheritance.dll
