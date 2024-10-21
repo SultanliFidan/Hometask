@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C83898-DF1A-4335-81D0-B6B79C5E0C4F}|Polymorphism\\Polymorphism.csproj|c:\\users\\user\\desktop\\hometask\\polymorphism\\polymorphism\\models\\wordpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C83898-DF1A-4335-81D0-B6B79C5E0C4F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\models\\wordpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C83898-DF1A-4335-81D0-B6B79C5E0C4F}|Polymorphism\\Polymorphism.csproj|c:\\users\\user\\desktop\\hometask\\polymorphism\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C83898-DF1A-4335-81D0-B6B79C5E0C4F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C83898-DF1A-4335-81D0-B6B79C5E0C4F}|Polymorphism\\Polymorphism.csproj|c:\\users\\user\\desktop\\hometask\\polymorphism\\polymorphism\\interface\\itexteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C83898-DF1A-4335-81D0-B6B79C5E0C4F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\interface\\itexteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C83898-DF1A-4335-81D0-B6B79C5E0C4F}|Polymorphism\\Polymorphism.csproj|c:\\users\\user\\desktop\\hometask\\polymorphism\\polymorphism\\models\\notepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C83898-DF1A-4335-81D0-B6B79C5E0C4F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\models\\notepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C83898-DF1A-4335-81D0-B6B79C5E0C4F}|Polymorphism\\Polymorphism.csproj|c:\\users\\user\\desktop\\hometask\\polymorphism\\polymorphism\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C83898-DF1A-4335-81D0-B6B79C5E0C4F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\models\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordPad.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\Polymorphism\\Models\\WordPad.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Models\\WordPad.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\Polymorphism\\Models\\WordPad.cs",
+              "RelativeToolTip": "Polymorphism\\Models\\WordPad.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:37:02.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotePad.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\Polymorphism\\Models\\NotePad.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Models\\NotePad.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\Polymorphism\\Models\\NotePad.cs",
+              "RelativeToolTip": "Polymorphism\\Models\\NotePad.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:35:31.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\Polymorphism\\Models\\Word.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Models\\Word.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\Polymorphism\\Models\\Word.cs",
+              "RelativeToolTip": "Polymorphism\\Models\\Word.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:29:42.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITextEditor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\Polymorphism\\Interface\\ITextEditor.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Interface\\ITextEditor.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\Polymorphism\\Interface\\ITextEditor.cs",
+              "RelativeToolTip": "Polymorphism\\Interface\\ITextEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:27:36.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\Polymorphism\\Polymorphism\\Program.cs",
+              "RelativeToolTip": "Polymorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:21:06.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
