@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\bin\Debug\net8.0\ListInt.exe
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\bin\Debug\net8.0\ListInt.deps.json
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\bin\Debug\net8.0\ListInt.runtimeconfig.json
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\bin\Debug\net8.0\ListInt.dll
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\bin\Debug\net8.0\ListInt.pdb
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\obj\Debug\net8.0\ListInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\obj\Debug\net8.0\ListInt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\obj\Debug\net8.0\ListInt.AssemblyInfo.cs
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\obj\Debug\net8.0\ListInt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\obj\Debug\net8.0\ListInt.sourcelink.json
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\obj\Debug\net8.0\ListInt.dll
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\obj\Debug\net8.0\refint\ListInt.dll
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\obj\Debug\net8.0\ListInt.pdb
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\obj\Debug\net8.0\ListInt.genruntimeconfig.cache
+C:\Users\User\Desktop\Hometask\ListInt\ListInt\obj\Debug\net8.0\ref\ListInt.dll
