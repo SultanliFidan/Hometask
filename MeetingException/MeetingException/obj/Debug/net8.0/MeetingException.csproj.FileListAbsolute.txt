@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\obj\Debug\net8.0\MeetingException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\obj\Debug\net8.0\MeetingException.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\obj\Debug\net8.0\MeetingException.AssemblyInfo.cs
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\obj\Debug\net8.0\MeetingException.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\obj\Debug\net8.0\MeetingException.sourcelink.json
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\bin\Debug\net8.0\MeetingException.exe
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\bin\Debug\net8.0\MeetingException.deps.json
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\bin\Debug\net8.0\MeetingException.runtimeconfig.json
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\bin\Debug\net8.0\MeetingException.dll
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\bin\Debug\net8.0\MeetingException.pdb
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\obj\Debug\net8.0\MeetingException.dll
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\obj\Debug\net8.0\refint\MeetingException.dll
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\obj\Debug\net8.0\MeetingException.pdb
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\obj\Debug\net8.0\MeetingException.genruntimeconfig.cache
+C:\Users\User\Desktop\Hometask\MeetingException\MeetingException\obj\Debug\net8.0\ref\MeetingException.dll
