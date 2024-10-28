@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Hometask\\MeetingException\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE8EB784-1FE8-490C-B1B4-C7474C0E1A20}|MeetingException\\MeetingException.csproj|c:\\users\\user\\desktop\\hometask\\meetingexception\\meetingexception\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE8EB784-1FE8-490C-B1B4-C7474C0E1A20}|MeetingException\\MeetingException.csproj|solutionrelative:meetingexception\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE8EB784-1FE8-490C-B1B4-C7474C0E1A20}|MeetingException\\MeetingException.csproj|c:\\users\\user\\desktop\\hometask\\meetingexception\\meetingexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE8EB784-1FE8-490C-B1B4-C7474C0E1A20}|MeetingException\\MeetingException.csproj|solutionrelative:meetingexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8EB784-1FE8-490C-B1B4-C7474C0E1A20}|MeetingException\\MeetingException.csproj|c:\\users\\user\\desktop\\hometask\\meetingexception\\meetingexception\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8EB784-1FE8-490C-B1B4-C7474C0E1A20}|MeetingException\\MeetingException.csproj|solutionrelative:meetingexception\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE8EB784-1FE8-490C-B1B4-C7474C0E1A20}|MeetingException\\MeetingException.csproj|c:\\users\\user\\desktop\\hometask\\meetingexception\\meetingexception\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -43,8 +43,7 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T20:42:35.624Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -56,8 +55,7 @@
               "RelativeToolTip": "MeetingException\\WrongDateIntervalException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T21:34:40.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T21:34:40.602Z"
             },
             {
               "$type": "Document",
@@ -69,12 +67,11 @@
               "RelativeToolTip": "MeetingException\\ReservedDateInterval.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T21:32:15.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T21:32:15.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Meeting.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\MeetingException\\MeetingException\\Meeting.cs",
               "RelativeDocumentMoniker": "MeetingException\\Meeting.cs",
@@ -87,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\MeetingException\\MeetingException\\Program.cs",
               "RelativeDocumentMoniker": "MeetingException\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\MeetingException\\MeetingException\\Program.cs",
               "RelativeToolTip": "MeetingException\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T20:14:43.784Z",
               "EditorCaption": ""

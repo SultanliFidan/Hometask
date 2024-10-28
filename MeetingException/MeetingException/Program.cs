@@ -12,7 +12,7 @@
                 schedule.SetMeeting("Fidan", new DateTime(2024, 11, 1), new DateTime(2024, 11, 2));
 
                 Console.WriteLine("Meeting: 1 Noyabr 2024 - 3 Noyabr 2024");
-                schedule.SetMeeting("Fidan2", new DateTime(2024, 11, 1), new DateTime(2024, 11, 3));
+                schedule.SetMeeting("Nigar", new DateTime(2024, 11, 1), new DateTime(2024, 11, 3));
 
             }
             catch (ReservedDateIntervalException ex)
@@ -27,7 +27,7 @@
             try
             {
                 Console.WriteLine("\nMeeting: 5 Noyabr 2024 - 3 Noyabr 2024");
-                schedule.SetMeeting("Fidan3", new DateTime(2024, 11, 5), new DateTime(2024, 11, 3));
+                schedule.SetMeeting("Sumaya", new DateTime(2024, 11, 5), new DateTime(2024, 11, 3));
 
             }
             catch (ReservedDateIntervalException ex)
@@ -42,7 +42,7 @@
             try
             {
                 Console.WriteLine("\nMeeting: 3 Kasım 2024 - 4 Kasım 2024");
-                schedule.SetMeeting("Fidan4", new DateTime(2024, 11, 3), new DateTime(2024, 11, 4));
+                schedule.SetMeeting("Necibe", new DateTime(2024, 11, 3), new DateTime(2024, 11, 4));
 
             }
             catch (ReservedDateIntervalException ex)
