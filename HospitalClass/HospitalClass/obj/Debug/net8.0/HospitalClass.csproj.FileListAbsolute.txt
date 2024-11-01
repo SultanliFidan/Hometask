@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HospitalClass\HospitalClass\bin\Debug\net8.0\HospitalClass.exe
+C:\Users\User\source\repos\HospitalClass\HospitalClass\bin\Debug\net8.0\HospitalClass.deps.json
+C:\Users\User\source\repos\HospitalClass\HospitalClass\bin\Debug\net8.0\HospitalClass.runtimeconfig.json
+C:\Users\User\source\repos\HospitalClass\HospitalClass\bin\Debug\net8.0\HospitalClass.dll
+C:\Users\User\source\repos\HospitalClass\HospitalClass\bin\Debug\net8.0\HospitalClass.pdb
+C:\Users\User\source\repos\HospitalClass\HospitalClass\obj\Debug\net8.0\HospitalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HospitalClass\HospitalClass\obj\Debug\net8.0\HospitalClass.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HospitalClass\HospitalClass\obj\Debug\net8.0\HospitalClass.AssemblyInfo.cs
+C:\Users\User\source\repos\HospitalClass\HospitalClass\obj\Debug\net8.0\HospitalClass.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HospitalClass\HospitalClass\obj\Debug\net8.0\HospitalClass.dll
+C:\Users\User\source\repos\HospitalClass\HospitalClass\obj\Debug\net8.0\refint\HospitalClass.dll
+C:\Users\User\source\repos\HospitalClass\HospitalClass\obj\Debug\net8.0\HospitalClass.pdb
+C:\Users\User\source\repos\HospitalClass\HospitalClass\obj\Debug\net8.0\HospitalClass.genruntimeconfig.cache
+C:\Users\User\source\repos\HospitalClass\HospitalClass\obj\Debug\net8.0\ref\HospitalClass.dll
