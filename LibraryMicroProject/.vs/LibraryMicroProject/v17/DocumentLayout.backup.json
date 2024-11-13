@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0DC380-CF7E-4530-9CB1-CAAA7E16AE65}|LibraryMicroProject\\LibraryMicroProject.csproj|c:\\users\\user\\desktop\\hometask\\librarymicroproject\\librarymicroproject\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0DC380-CF7E-4530-9CB1-CAAA7E16AE65}|LibraryMicroProject\\LibraryMicroProject.csproj|solutionrelative:librarymicroproject\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0DC380-CF7E-4530-9CB1-CAAA7E16AE65}|LibraryMicroProject\\LibraryMicroProject.csproj|c:\\users\\user\\desktop\\hometask\\librarymicroproject\\librarymicroproject\\exception\\custombookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0DC380-CF7E-4530-9CB1-CAAA7E16AE65}|LibraryMicroProject\\LibraryMicroProject.csproj|solutionrelative:librarymicroproject\\exception\\custombookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0DC380-CF7E-4530-9CB1-CAAA7E16AE65}|LibraryMicroProject\\LibraryMicroProject.csproj|c:\\users\\user\\desktop\\hometask\\librarymicroproject\\librarymicroproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0DC380-CF7E-4530-9CB1-CAAA7E16AE65}|LibraryMicroProject\\LibraryMicroProject.csproj|solutionrelative:librarymicroproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0DC380-CF7E-4530-9CB1-CAAA7E16AE65}|LibraryMicroProject\\LibraryMicroProject.csproj|c:\\users\\user\\desktop\\hometask\\librarymicroproject\\librarymicroproject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B0DC380-CF7E-4530-9CB1-CAAA7E16AE65}|LibraryMicroProject\\LibraryMicroProject.csproj|solutionrelative:librarymicroproject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B0DC380-CF7E-4530-9CB1-CAAA7E16AE65}|LibraryMicroProject\\LibraryMicroProject.csproj|c:\\users\\user\\desktop\\hometask\\librarymicroproject\\librarymicroproject\\files\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B0DC380-CF7E-4530-9CB1-CAAA7E16AE65}|LibraryMicroProject\\LibraryMicroProject.csproj|solutionrelative:librarymicroproject\\files\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\LibraryMicroProject\\Files\\Database.json",
+              "RelativeDocumentMoniker": "LibraryMicroProject\\Files\\Database.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\LibraryMicroProject\\Files\\Database.json",
+              "RelativeToolTip": "LibraryMicroProject\\Files\\Database.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T15:27:55.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomBookException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\LibraryMicroProject\\Exception\\CustomBookException.cs",
+              "RelativeDocumentMoniker": "LibraryMicroProject\\Exception\\CustomBookException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\LibraryMicroProject\\Exception\\CustomBookException.cs",
+              "RelativeToolTip": "LibraryMicroProject\\Exception\\CustomBookException.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:35:39.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\LibraryMicroProject\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryMicroProject\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\LibraryMicroProject\\Models\\Library.cs",
+              "RelativeToolTip": "LibraryMicroProject\\Models\\Library.cs",
+              "ViewState": "AgIAAC4AAAAA0EUH3GL8vzcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:25:05.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\LibraryMicroProject\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryMicroProject\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\LibraryMicroProject\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryMicroProject\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:15:25.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\LibraryMicroProject\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryMicroProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Hometask\\LibraryMicroProject\\LibraryMicroProject\\Program.cs",
+              "RelativeToolTip": "LibraryMicroProject\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAkNFFAh+3vzEAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:52:56.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
