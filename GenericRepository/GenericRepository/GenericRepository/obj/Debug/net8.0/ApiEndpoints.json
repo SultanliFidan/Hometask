@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "GenericRepository.Controllers.StudentsController",
+    "Method": "GetAllGroups",
+    "RelativePath": "api/Students/Groups",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GenericRepository.Controllers.StudentsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Students/Students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
